@@ -1,7 +1,7 @@
 # Watermill pulsar Pub/Sub
 <img align="right" width="200" src="https://threedots.tech/watermill-io/watermill-logo.png">
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/MaxW1337/watermill-pulsar)](https://goreportcard.com/report/github.com/ThreeDotsLabs/watermill-nats)
+[![Go Report Card](https://goreportcard.com/badge/github.com/MaxW1337/watermill-pulsar)](https://goreportcard.com/report/github.com/MaxW1337/watermill-pulsar)
 
 This is unofficial [Apache Pulsar](https://pulsar.apache.org/) Pub/Sub for the [Watermill](https://watermill.io/) project.
 
